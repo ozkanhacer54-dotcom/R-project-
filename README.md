@@ -13,6 +13,7 @@ This project aims to identify and analyze the key factors that lead to employee 
 ## 🛠 Technologies & Libraries
 * **R Programming**
 * **Tidyverse** (Data manipulation and visualization)
+* **dplyr** (Grammar of data manipulation)
 * **ggplot2** (Advanced plotting)
 * **corrplot** (Correlation analysis)
 * **Statistical Tests**: T-test, ANOVA, Chi-Square, Logistic Regression
